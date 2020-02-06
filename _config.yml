@@ -9,7 +9,7 @@ disqus_shortname:
 description: Jekyll template with example content for a web agency.
 
 # Author details for the jekyll-seo-tag gem
-author: Emmanuella Ametsi
+author: 
   name: Emmanuella Ametsi
   email: etornamametsi@gmail.com
   twitter: ella_ametsi# twitter username without the @ symbol
