@@ -1,13 +1,12 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: My Personal Blog
+url: "https://EtornamAmetsi.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
-
+description: Welcome to My Personal Blog!
 # Author details for the jekyll-seo-tag gem
 author: 
   name: Emmanuella Ametsi
@@ -16,7 +15,7 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Ella Ametsi
   links:
     - https://github.com/CloudCannon/urban-jekyll-template
 
